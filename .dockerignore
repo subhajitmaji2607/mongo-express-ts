@@ -1,0 +1,6 @@
+/dist
+/node_modules
+.env.example
+.npmrc
+Dockerfile.dev
+# tsconfig.json
